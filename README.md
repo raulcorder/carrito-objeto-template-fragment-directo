@@ -1,8 +1,8 @@
-# Ejemplo de carrito de compras con Objeto y Template+
+# Ejemplo de carrito de compras con objeto y template
 
 
 ## Todo con fines educativos
-Si puedes emjorar el código, ¡bienvenido!
+Si puedes mejorar el código, ¡bienvenido!
 
 ## template
 ```html
@@ -12,5 +12,4 @@ Si puedes emjorar el código, ¡bienvenido!
             <span class="badge bg-primary rounded-pill">00</span>
         </li>
     </template>
-
 ```
